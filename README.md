@@ -1,4 +1,4 @@
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz3oC3N58k3waT8Ms_J06I11t8yWo9hyWNvQ&s
+![HackerRank Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz3oC3N58k3waT8Ms_J06I11t8yWo9hyWNvQ&s)
 # 10 Days of JavaScript - HackerRank Solutions
 
 Welcome to my repository containing solutions for the **10 Days of JavaScript** challenge on HackerRank. This journey helped me solidify my JavaScript fundamentals, from basic syntax to advanced concepts.
